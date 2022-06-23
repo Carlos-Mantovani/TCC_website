@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-	background-color: #429540;
+	background-color: #604878;
 }
 
 .nav {
@@ -29,12 +29,11 @@ body {
 }
 
 .nav li a:hover {
-	border-bottom: 2px #ffffff solid;
+	border-bottom: 2px #f4f8e6 solid;
 }
 
 .main {
-	background-color: #F2B17E;
-	background-image: url(./img/background.png);
+	background-color: #d8dec3;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 60%;
@@ -42,13 +41,13 @@ body {
 }
 
 .grid {
-	background-color: #4eba4b;
+	background-color: #604878;
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
 }
 
 .box {
-	background-color: #AA6C39;
+	background-color: #cad197;
     padding: 100px 100px;
     margin: 20px;
     height: 90px;
